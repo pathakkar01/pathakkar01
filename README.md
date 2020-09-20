@@ -6,6 +6,6 @@ I'm Pooja Thkakkar.My
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning **Deep Learning, Advanced Machine Learning Algorithms** and **Django**
 - 👯 I’m looking to collaborate on Any **Machine Learnig** or **Web Development** Project
-- 📫 How to reach me on [Linked IN ] (https://www.linkedin.com/in/pooja-thakkar/) 
+- 📫 How to reach me on [Linked IN ](https://www.linkedin.com/in/pooja-thakkar/) 
 - 😄 Pronouns: pathakkar
 
