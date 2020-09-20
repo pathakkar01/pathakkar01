@@ -1,4 +1,4 @@
-[![linkedin](https://github.com/pathakkar01/pathakkar01/blob/master/linkedin.png)](https://www.linkedin.com/in/pooja-thakkar/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/pathakkar01/pathakkar01/blob/master/m1.png)](mailto:pathakkar01@gmail.com)
+[![linkedin](https://github.com/pathakkar01/pathakkar01/blob/master/linkedin.png)](https://www.linkedin.com/in/pooja-thakkar/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/pathakkar01/pathakkar01/blob/master/m1.png)](mailto:pathakkar01@gmail.com)
 ### Hi there,👋
 
 I'm Pooja Thkakkar.My  
