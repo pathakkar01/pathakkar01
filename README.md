@@ -1,7 +1,7 @@
 [![linkedin](https://github.com/pathakkar01/pathakkar01/blob/master/linkedin.png)](https://www.linkedin.com/in/pooja-thakkar/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/pathakkar01/pathakkar01/blob/master/m1.png)](mailto:pathakkar01@gmail.com)
 ### Hi there,👋
 
-I'm Pooja Thkakkar.My  
+I'm Pooja Thkakkar.My interest lies in data science and Machine Learning.
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning **Deep Learning, Advanced Machine Learning Algorithms** and **Django**
